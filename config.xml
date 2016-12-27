@@ -532,12 +532,8 @@
             <key>NSAllowsArbitraryLoads</key><true/>
         </dict>
     </gap:config-file>
-        <gap:config-file platform="ios" parent="Information Property List">
-    <array>
-        <string>Advertisement would like to create a calendar event.</string>
-    </array>
-</gap:config-file>
-<gap:config-file platform="ios" parent="NSPhotoLibraryUsageDescription">
+        
+    <gap:config-file platform="ios" parent="Information Property List">
         <key> NSCalendarsUsageDescription</key>
         <string>La app vorrebbe creare un evento in calendario.</string>
         <key>NSPhotoLibraryUsageDescription </key>
