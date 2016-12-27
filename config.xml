@@ -536,4 +536,12 @@
     <gap:config-file platform="ios" parent="NSCalendarsUsageDescription">
         <string>La app vorrebbe creare un evento in calendario.</string>     
 </gap:config-file>
+            <gap:config-file platform="ios" parent="NSPhotoLibraryUsageDescription">
+        <string>La app vorrebbe scattare una foto.</string>     
+</gap:config-file>
+            <gap:config-file platform="ios" parent="NSBluetoothPeripheralUsageDescription">
+        <string>La app vorrebbe utilizzare il Bluetooth.</string>     
+</gap:config-file>     
+        
+        
 </widget>
