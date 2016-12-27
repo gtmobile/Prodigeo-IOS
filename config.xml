@@ -532,19 +532,17 @@
             <key>NSAllowsArbitraryLoads</key><true/>
         </dict>
     </gap:config-file>
-        <gap:config-file platform="ios" parent="NSCalendarsUsageDescription">
+        <gap:config-file platform="ios" parent="Information Property List">
     <array>
         <string>Advertisement would like to create a calendar event.</string>
     </array>
 </gap:config-file>
 <gap:config-file platform="ios" parent="NSPhotoLibraryUsageDescription">
-    <array>
-        <string>Advertisement would like to store a photo.</string>
-    </array>
-</gap:config-file>
-<gap:config-file platform="ios" parent="NSBluetoothPeripheralUsageDescription">
-    <array>
-        <string>Advertisement would like to use bluetooth.</string>
-    </array>
+        <key> NSCalendarsUsageDescription</key>
+        <string>La app vorrebbe creare un evento in calendario.</string>
+        <key>NSPhotoLibraryUsageDescription </key>
+        <string>La app vorrebbe scattare una foto.</string>
+        <key>NSBluetoothPeripheralUsageDescription</key>
+        <string>La app vorrebbe utilizzare il Bluetooth.</string>   
 </gap:config-file>
 </widget>
