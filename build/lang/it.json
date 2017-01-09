@@ -232,7 +232,7 @@
     "mm.login.createaccount": "Crea il mio nuovo account",
     "mm.login.createuserandpass": "Scegli username e password",
     "mm.login.credentials": "Credenziali",
-    "mm.login.credentialsdescription": "Per faovre inserisci username e password per l'autenticazione",
+    "mm.login.credentialsdescription": "Per favore inserisci username e password per l'autenticazione",
     "mm.login.emailconfirmsent": "<p>Una email è stata inviata al tuo indirizzo <b>{{$a}}</b></p>\n<p>Contiene semplici istruzioni per completare la tua registrazione.</p>\n<p>Se hai qualche difficoltà contatta l'amministratore del sito.</p>",
     "mm.login.enterthewordsabove": "Inserisci le parole sovrastanti",
     "mm.login.erroraccesscontrolalloworigin": "La chiamata Cross-Origin che stai effettuando è stata rifiutata. Per ulteriori informazioni: https://docs.moodle.org/dev/Moodle_Mobile_development_using_Chrome_or_Chromium",
